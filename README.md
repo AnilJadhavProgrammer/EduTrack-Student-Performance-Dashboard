@@ -1,4 +1,4 @@
-# student-performance-analysis-dashbord
+# EduTrack — Student Performance Dashboard
 # Overview
 This project is a Student Performance Analysis Dashboard created using Power BI. The dashboard provides insights into student performance based on various factors such as attendance, grades, subject-wise analysis, and other key performance indicators.
 
